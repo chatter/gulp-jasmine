@@ -73,6 +73,12 @@ Default `5000`
 
 Time to wait in milliseconds before a test automatically fails.
 
+##### configFile
+
+Type: `string`
+default: null
+
+Configure Jasmine using the specified configuration file.
 
 ## License
 
